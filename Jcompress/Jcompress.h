@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <malloc.h>
 #include <string.h>
-#include <io.h>
+//#include <io.h>
 #include <unistd.h>
 /**
  ** data structure for Huffman algorithm
